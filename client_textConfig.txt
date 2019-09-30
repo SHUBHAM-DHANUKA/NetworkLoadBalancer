@@ -1,0 +1,10 @@
+Connecting to host 192.168.43.14, port 5201
+[  4] local 192.168.43.14 port 32808 connected to 192.168.43.14 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec  2.85 GBytes  24.5 Gbits/sec    0   3.12 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-1.00   sec  2.85 GBytes  24.5 Gbits/sec    0             sender
+[  4]   0.00-1.00   sec  2.84 GBytes  24.4 Gbits/sec                  receiver
+
+iperf Done.

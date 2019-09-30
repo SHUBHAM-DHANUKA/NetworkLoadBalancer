@@ -1,0 +1,10 @@
+Connecting to host 192.168.2.4, port 5201
+[  4] local 192.168.2.4 port 45586 connected to 192.168.2.4 port 5201
+[ ID] Interval           Transfer     Bandwidth       Retr  Cwnd
+[  4]   0.00-1.00   sec  3.33 GBytes  28.6 Gbits/sec    0   3.18 MBytes       
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bandwidth       Retr
+[  4]   0.00-1.00   sec  3.33 GBytes  28.6 Gbits/sec    0             sender
+[  4]   0.00-1.00   sec  3.32 GBytes  28.5 Gbits/sec                  receiver
+
+iperf Done.
